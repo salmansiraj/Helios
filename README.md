@@ -14,3 +14,7 @@
 * React
 * HTML/CSS
 * Bootstrap
+
+### Future
+* Include dynamic webpage with weekly forecast
+* Adding visuals with certain types of weather
