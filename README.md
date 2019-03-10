@@ -1,5 +1,5 @@
 # Helios
-Weather App using React + Weather API
+######  Weather App using React + Weather API
 
 ### Instructions
 * Run `cd helios` in terminal
